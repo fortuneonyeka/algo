@@ -20,7 +20,8 @@ cd luxoft
 Click to Go Live extention
 ```
 
-1. Next, you can start joining missions and booking rockets. All the changes will be automatically updated on your local server on http://127.0.0.1:5500/index.html 
+1.  All the changes will be automatically updated on your local server on http://127.0.0.1:5500/index.html ,
+2. go to the inspect page and console to view the results
 
 ## Author
 
